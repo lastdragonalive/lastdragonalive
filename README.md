@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Ekaterina 
 
+# I'am a QA-engineer specializing in manual testing | Я ручной инженер-тестировщик
+
+
+
+You can reach me via tg: [@kajaqu](https://t.me/kajaqu)
 <!--
 **lastdragonalive/lastdragonalive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
