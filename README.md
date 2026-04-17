@@ -1,6 +1,6 @@
 ## Hi there, I'm Ekaterina 
 
-# I'am a QA-engineer specializing in manual testing | Я ручной инженер-тестировщик
+# I'am a QA-engineer specializing in manual testing
 
 
 
